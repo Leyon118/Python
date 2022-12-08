@@ -24,6 +24,6 @@ elif d_ser.lower()=='d':
 else:
         print('Option unavalable')
 
-
+ 
 print(d_lis)
 
